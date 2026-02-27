@@ -27,4 +27,4 @@ Dataset Source
 
  Submission
 - 🔗 GitHub Repo: [Link coming soon]
-- 🔗 LinkedIn Project Video: [Posting soon]
+- 🔗 LinkedIn Project Video: https://www.linkedin.com/posts/soham-bagwe-16010a359_machinelearning-datascience-python-ugcPost-7352369860368048128-WghW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFku4FgB92L5YBUZA6Rrh-6wWq2rUi3ERo8
